@@ -115,4 +115,5 @@ MIT — use freely, share freely!
 🧑‍💻 Author
 Built by [YOUR NAME] — serverless IoT pipelines made simple.
 
-Happy Building! 
+Happy Building! 🚀
+
